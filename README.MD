@@ -21,4 +21,7 @@ These are the books proposed by *Luco Ramaromanana* when sharing on `ROADMAP POU
 </br>
 </br>
 
+##### How to download the books :
+Download the books in the *<a href= "/books">books</a>* folder
+
 *By AmigosKazz*
